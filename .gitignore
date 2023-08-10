@@ -1,0 +1,6 @@
+data/art*
+data/dnn*
+data/lv*
+data/sz*
+data/scraping*
+geckodriver.log
